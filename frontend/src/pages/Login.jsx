@@ -27,7 +27,7 @@ function Login() {
                         fontWeight: "bold"
                     }}
                 >
-                    Register Now
+                    Register Now hehe
                 </Link>
             </div>
         </div>
